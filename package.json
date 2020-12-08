@@ -11,7 +11,7 @@
         "@types/fs-extra": "^7.0.0",
         "@types/lodash": "^4.14.132",
         "@types/prettier": "^1.16.4",
-        "fast-csv": "^2.5.0",
+        "fast-csv": "^4.3.6",
         "fs-extra": "^8.0.1",
         "knex": "^0.16.5",
         "pg": "^7.11.0",
